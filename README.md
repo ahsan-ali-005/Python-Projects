@@ -19,7 +19,7 @@ A collection of beginner-to-intermediate Python projects built while learning co
   - [5. Weather App](#5-️-weather-app)
 - [Repository Structure](#-repository-structure)
 - [Tech Stack](#️-tech-stack)
-- [Getting Started](#--getting-started)
+- [Getting Started](#-getting-started)
 - [License](#-license)
 - [Contact](#-contact)
 
