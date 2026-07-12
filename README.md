@@ -1,4 +1,4 @@
-# 🐍 Python Projects
+<img width="742" height="717" alt="image" src="https://github.com/user-attachments/assets/93a9b008-d3ea-466f-a7b4-0ec49a10a971" /># 🐍 Python Projects
 
 A collection of beginner-to-intermediate Python projects built while learning core programming concepts, GUI development, API integration, and automation. Each project focuses on a different real-world use case — from a desktop calculator to an AI voice assistant powered by Google Gemini.
 
@@ -12,7 +12,7 @@ A collection of beginner-to-intermediate Python projects built while learning co
 
 - [About](#-about)
 - [Projects](#-projects)
-  - [1. Calculator](#1-️-calculator)
+  - [1. Calculator](#1--calculator)
   - [2. Jarvis AI Assistant](#2--jarvis-ai-assistant)
   - [3. Image Downloader](#3-️-image-downloader)
   - [4. URL Shortener](#4--url-shortener)
