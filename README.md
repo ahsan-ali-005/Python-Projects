@@ -102,7 +102,7 @@ A simple GUI-based URL shortener that generates a short link for any long URL en
 
 **Features:**
 - User enters a long URL and the app generates a corresponding short URL
-- Clicking the **Open** button inside the app redirects to the original long URL
+- Clicking the generated link button inside the app redirects to the original long URL
 - Short URL mappings are stored locally in `data.json`
 
 
