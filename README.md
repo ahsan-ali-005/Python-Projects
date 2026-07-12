@@ -18,8 +18,8 @@ A collection of beginner-to-intermediate Python projects built while learning co
   - [4. URL Shortener](#4--url-shortener)
   - [5. Weather App](#5-️-weather-app)
 - [Repository Structure](#-repository-structure)
-- [Tech Stack](#--tech-stack)
-- [Getting Started](#--getting-started)
+- [Tech Stack](#tech-stack)
+- [Getting Started](#getting-started)
 - [License](#-license)
 - [Contact](#-contact)
 
@@ -196,5 +196,6 @@ This project is licensed under the [MIT License](LICENSE) — feel free to use, 
 
 **Ahsan Ali**
 GitHub: [@ahsan-ali-005](https://github.com/ahsan-ali-005)
+Email: mr.ahsanali005@gmail.com
 
 ⭐ If you found this repository useful, consider giving it a star!
