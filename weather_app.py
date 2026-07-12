@@ -5,7 +5,7 @@ from PIL import ImageTk,Image
 report_data=[]
 def get_report():
     location = input_box.get()
-    url="https://api.openweathermap.org/data/2.5/weather?q={}&APPID="Your-API-Key"&units=metric".format(location)
+    url = "https://api.openweathermap.org/data/2.5/weather?q={}&appid=Your-API-Key&units=metric".format(location)
     try:
         response= requests.get(url)
         status= response.status_code
